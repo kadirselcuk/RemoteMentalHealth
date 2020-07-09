@@ -12,6 +12,6 @@ class Example(db.Model):
 
 @app.route("/")
 def main():
-    return "Welcome!"
+    return "Welcome to the telehealth app"
 if __name__ == "__main__":
     app.run()
