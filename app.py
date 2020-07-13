@@ -2,7 +2,7 @@ from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
 app.config['SECRET_KEY'] = '123456'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:''@localhost/mentalhealth'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:''@localhost/mentalhealthwebsite'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS']=False
 db = SQLAlchemy(app)
 
@@ -89,7 +89,9 @@ class Guardian(db.Model):
 	Relation = db.Column(db.String(1),nullable=False)
 	Fname = db.Column(db.String(50),nullable=False)
 	Lname = db.Column(db.String(50),nullable=False)
+	Phone=db.Column(db.String(50),nullable=False)
 	Email= db.Column(db.String(50),nullable=False)
+	Workphone=db.Column(db.String(50),nullable=True)
 	Address = db.Column(db.String(100),nullable=False)
 	City = db.Column(db.String(50),nullable=False)
 	State = db.Column(db.String(50),nullable=False)
