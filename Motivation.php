@@ -9,7 +9,7 @@
 <center><h1>Click On The Image For a Motivational Video !! </h1>
 <br>
 <p align="center">
- <a href="https://www.youtube.com/watch?v=GghmPtItGA4">
+ <a href="https://www.youtube.com/watch?v=GghmPtItGA4" target="_blank">
   <img src="motivationpic.jpg" width="400" height="300">
  </a>
 </p>
