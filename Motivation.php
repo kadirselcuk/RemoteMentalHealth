@@ -12,6 +12,9 @@
  <a href="https://www.youtube.com/watch?v=GghmPtItGA4" target="_blank">
   <img src="motivationpic.jpg" width="400" height="300">
  </a>
+ <br>
+ <br>
+ <a href= "https://www.ccs.k12.in.us/services/student-services/mental-health-resources" target="_blank"> Resource </a>
 </p>
 
 <?php
