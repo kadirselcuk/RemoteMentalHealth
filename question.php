@@ -37,13 +37,13 @@ session_start();
     <div class="card">
 <h4 class="card-header"> <?php echo $row['Question'] ?> </h4>
 
-                        <input type="radio" name="question[<?php echo $row['Question_id']; ?>]" id="question-1-answers-A" value="Answer1_points" />
+                        <input type="radio" name="question[<?php echo $row['Question_id']; ?>]" id="question-1-answers-A" value="Answer1_points" required/>
                         <label for="question-1-answers-A"><?php echo $row['Answer1'] ?></label>
                     
-                        <input type="radio" name="question[<?php echo $row['Question_id']; ?>]"value="Answer2_points" />
+                        <input type="radio" name="question[<?php echo $row['Question_id']; ?>]"value="Answer2_points" required/>
                         <label for="question-1-answers-B"><?php echo $row['Answer2'] ?></label>
                     
-                        <input type="radio" name="question[<?php echo $row['Question_id'];?>]" value="Answer3_points" />
+                        <input type="radio" name="question[<?php echo $row['Question_id'];?>]" value="Answer3_points" required/>
                         <label for="question-1-answers-C"><?php echo $row['Answer3'] ?></label>
                     
  
