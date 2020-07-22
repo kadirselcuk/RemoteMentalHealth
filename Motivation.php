@@ -14,7 +14,7 @@
  </a>
  <br>
  <br>
- <h3><a href= "https://www.ccs.k12.in.us/services/student-services/mental-health-resources" target="_blank"> Resource </a></h3>
+ <h2><a href= "https://www.ccs.k12.in.us/services/student-services/mental-health-resources" target="_blank"> Resources </a></h2>
 </p>
 
 <?php
