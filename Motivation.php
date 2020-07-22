@@ -43,9 +43,9 @@ for($i=1;$i<19;$i=$i+1){
          $sql="update response set Response='$row[$rest]',Score='$row[$r]' where Student_id='$sid' and Question_id='$i' and Test_id=1";
         //$sql = "INSERT INTO response (Student_id,Test_id,Question_id,Response,Score,Recommendation) VALUES ($sid,1,$i,$row[$rest],$row[$r], 'none')";
   if (mysqli_query($conn, $sql)) {
-    echo "<br>New record updated successfully";
+    //echo "<br>New record updated successfully";
  } else {
-    echo "<br>Error: ".$conn->error ;
+    //echo "<br>Error: ".$conn->error ;
  }
          
      }
