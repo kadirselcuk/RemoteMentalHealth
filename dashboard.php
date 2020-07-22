@@ -24,8 +24,8 @@ session_start();
 <body>
 	<center>
 <h1>Please select if you want to view student dashboard or Analytics or logout</h1>
-<a href="http://10.8.1.19:3000/public/dashboard/8c268ac7-02d5-4aa8-8538-47306b1473d6" target = 'blank'><button>Student Dashboard</button></a><br>
-<a href="http://10.8.1.19:3000/public/dashboard/9b95f8ea-a464-4bc4-973f-64ef6ad0c041" target = 'blank'><button>Analytics</button></a>
+<a href="https://public.tableau.com/profile/lakshmi.shri#!/vizhome/StudentDashboard_15954361808020/Student-GuardianDetails?publish=yes" target = 'blank'><button>Student Dashboard</button></a><br>
+<a href="https://public.tableau.com/profile/lakshmi.shri#!/vizhome/StudentAnalytics/StudentAnalytics?publish=yes" target = 'blank'><button>Analytics</button></a>
 <br><a href="index.html"><button>Logout</button></a>
 </form>
 </body>
