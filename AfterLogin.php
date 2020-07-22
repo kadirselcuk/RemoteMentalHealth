@@ -8,7 +8,7 @@
 <body>
 <center><h1>Welcome Students !! </h1>
 <br>
-<h3>Click The Image to Goto Quiz</h3>
+<h3>Click the image to take the survey</h3>
 
 <br>
 <p align="center">
