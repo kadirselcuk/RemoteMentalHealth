@@ -13,7 +13,7 @@
 <br>
 <p align="center">
  <a href="question.php">
-  <img src="survey.png" width="400" height="300">
+  <img src="survey.png" width="800" height="600">
  </a>
 </p>
 </body>
