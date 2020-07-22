@@ -52,7 +52,7 @@ session_start();
 ?>
 <br>
 <br>
-<input type='submit' class='submit' name='submit' value='submit'>
+<button type='submit' class='submit' name='submit'>Submit</button>
 
 </div>
 </form>
