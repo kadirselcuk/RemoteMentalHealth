@@ -21,8 +21,14 @@
 
 if(isset($_POST['submit'])){
     $selected=$_POST['question'];
+ $count=count($selected);
+ if($count<18){
+ echo '<script type="text/javascript">';
+        echo 'alert("Please attempt all questions ");';
+        echo 'window.location.href = "question.php";';
+        echo "</script>";
     //print_r($selected);
-       
+ }   
 }
 include 'dbconnection.php';
 session_start();
