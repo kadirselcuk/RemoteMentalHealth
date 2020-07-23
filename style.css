@@ -10,7 +10,9 @@ h1 {
 h3 {
   color: Tomato;
 }
-
+h2 {
+  color: Tomato;
+}
 
 input[type=text], input[type=password] {
   width: 30%;
