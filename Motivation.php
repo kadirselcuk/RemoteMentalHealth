@@ -16,15 +16,15 @@
  <h2><a href= "https://www.ccs.k12.in.us/services/student-services/mental-health-resources" target="_blank"> Resources </a></h2>
 
 <h2> Here is an exercise that you can try: </h2>
-<h3>Breath in for 4 seconds 
+<h3>Breath in for 4 seconds !
 <br>
-Hold for 7 seconds
+Hold for 7 seconds !
  <br>
-Breathe out for 8 seconds
+Breathe out for 8 seconds !
 <br>
-Repeat 4 times or until you feel calmer and are ready to tackle your next task.
+Repeat 4 times or until you feel calmer and are ready to tackle your next task !
 <br>
- This breathing exercise resets your nervous system, which naturally helps your body relax.</h3>
+ This breathing exercise resets your nervous system, which naturally helps your body relax !!!</h3>
 </p>
 <?php
 
