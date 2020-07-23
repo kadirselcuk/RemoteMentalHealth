@@ -24,8 +24,6 @@ session_start();
  
  
 	<div id="page-wrap">
- 
-	<h2>Questions</h2>
 		
 	<form action="Motivation.php" method="post" id="quiz">
     <?php
