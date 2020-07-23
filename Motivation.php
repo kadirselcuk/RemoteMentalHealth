@@ -6,26 +6,24 @@
 <title>  </title>
 </head>
 <br>
-<center><h1>Click On The Image For a Motivational Video !! </h1>
+<center><h2>Click On The Image For a Motivational Video !! </h2>
 <br>
 <p align="center">
  <a href="https://www.youtube.com/watch?v=GghmPtItGA4" target="_blank">
-  <img src="motivationpic.jpg" width="400" height="300">
+  <img src="motivationpic.jpg" width="350" height="250">
  </a>
  <br>
  <br>
  <h2><a href= "https://www.ccs.k12.in.us/services/student-services/mental-health-resources" target="_blank"> Resources </a></h2>
-</p>
-<h2> Here is an exercise that you can try: </h2>
-<br>
-<ul>
-<li>Breath in for 4 seconds </li>
-<li>Hold for 7 seconds</li>
-<li>Breathe out for 8 seconds</li>
-<li>Repeat 4 times or until you feel calmer and are ready to tackle your next task. </li>
-</ul>
+
+<h1> Here is an exercise that you can try: </h1>
+Breath in for 4 seconds 
+Hold for 7 seconds
+Breathe out for 8 seconds
+Repeat 4 times or until you feel calmer and are ready to tackle your next task.
 <br>
 <h3>This breathing exercise resets your nervous system, which naturally helps your body relax.</h3>
+</p>
 <?php
 
 if(isset($_POST['submit'])){
