@@ -15,11 +15,9 @@
 <br>
  <h2><a href= "https://www.ccs.k12.in.us/services/student-services/mental-health-resources" target="_blank"> Resources </a></h2>
 
-<h2> Here is an exercise that you can try: </h2>
-<h3>Breath in for 4 seconds !
+<h2 color:Tomato> Here is an exercise that you can try: </h2>
+<h3>Breath in for 4 seconds and Hold for 7 seconds !
 <br>
-Hold for 7 seconds !
- <br>
 Breathe out for 8 seconds !
 <br>
 Repeat 4 times or until you feel calmer and are ready to tackle your next task !
