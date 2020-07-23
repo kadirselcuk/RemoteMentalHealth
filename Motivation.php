@@ -16,7 +16,16 @@
  <br>
  <h2><a href= "https://www.ccs.k12.in.us/services/student-services/mental-health-resources" target="_blank"> Resources </a></h2>
 </p>
-
+<h2> Here is an exercise that you can try: </h2>
+<br>
+<ul>
+<li>Breath in for 4 seconds </li>
+<li>Hold for 7 seconds</li>
+<li>Breathe out for 8 seconds</li>
+<li>Repeat 4 times or until you feel calmer and are ready to tackle your next task. </li>
+</ul>
+<br>
+<h3>This breathing exercise resets your nervous system, which naturally helps your body relax.</h3>
 <?php
 
 if(isset($_POST['submit'])){
