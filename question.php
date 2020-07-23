@@ -18,7 +18,7 @@ session_start();
 <title> Questionnaire </title>
 </head>
 <body>
-	<center> <h2> How are you feeling today? </h2>
+	<center> <h2> How have you been feeling for the past 30 days ? </h2>
     <img src="mood.png" width="350" height="300">
 
  
